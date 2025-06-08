@@ -1,7 +1,7 @@
 # Welcome to SixthSense 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PRANAVJ2804/SixthSense/main/docs/assets/banner.png" alt="SixthSense Logo" width="400"/>
+  <img src="https://raw.githubusercontent.com/Ullashsathish/SixthSense/main/docs/assets/banner.png" alt="SixthSense Logo" width="400"/>
 </p>
 
 ## Empowering Independence Through Technology 🚀
@@ -11,12 +11,12 @@ SixthSense is a revolutionary mobile application designed to transform how visua
 ## 📱 App Preview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PRANAVJ2804/SixthSense/main/docs/assets/main.png" alt="SixthSense Screenshot 1" width="200"/>
-  <img src="https://raw.githubusercontent.com/PRANAVJ2804/SixthSense/main/docs/assets/admin.png" alt="SixthSense Screenshot 2" width="200"/>
-  <img src="https://raw.githubusercontent.com/PRANAVJ2804/SixthSense/main/docs/assets/client.png" alt="SixthSense Screenshot 3" width="200"/>
-  <img src="https://raw.githubusercontent.com/PRANAVJ2804/SixthSense/main/docs/assets/alert.png" alt="SixthSense Screenshot 3" width="200"/>
-  <img src="https://raw.githubusercontent.com/PRANAVJ2804/SixthSense/main/docs/assets/message.png" alt="SixthSense Screenshot 3" width="200"/>
-  <img src="https://raw.githubusercontent.com/PRANAVJ2804/SixthSense/main/docs/assets/location.png" alt="SixthSense Screenshot 3" width="200"/>
+  <img src="https://raw.githubusercontent.com/Ullashsathish/SixthSense/main/docs/assets/main.png" alt="SixthSense Screenshot 1" width="200"/>
+  <img src="https://raw.githubusercontent.com/Ullashsathish/SixthSense/main/docs/assets/admin.png" alt="SixthSense Screenshot 2" width="200"/>
+  <img src="https://raw.githubusercontent.com/Ullashsathish/SixthSense/main/docs/assets/client.png" alt="SixthSense Screenshot 3" width="200"/>
+  <img src="https://raw.githubusercontent.com/Ullashsathish/SixthSense/main/docs/assets/alert.png" alt="SixthSense Screenshot 3" width="200"/>
+  <img src="https://raw.githubusercontent.com/Ullashsathish/SixthSense/main/docs/assets/message.png" alt="SixthSense Screenshot 3" width="200"/>
+  <img src="https://raw.githubusercontent.com/Ullashsathish/SixthSense/main/docs/assets/location.png" alt="SixthSense Screenshot 3" width="200"/>
 </p>
 
 ## 🌟 Key Features
@@ -71,7 +71,7 @@ SixthSense leverages cutting-edge technologies to provide a seamless and powerfu
 
 To get started with SixthSense:
 
-1. Clone the repository: `git clone https://github.com/PRANAVJ2804/SixthSense.git`
+1. Clone the repository: `git clone https://github.com/Ullashsathish/SixthSense.git`
 2. Install dependencies: `npm install` or `yarn install`
 3. Set up Firebase:
    - Create a Firebase project
@@ -94,4 +94,4 @@ We believe in the power of community! If you're passionate about making a differ
 
 Have questions, suggestions, or want to join our mission? Reach out to me:
 
-- Email: pranavjagadeesha17@gmail.com
+- Email: ullashsathish@gmail.com
